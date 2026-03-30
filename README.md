@@ -1,4 +1,4 @@
-# Patient No-Show Prediction using Machine Learning
+# AI-Based Patient No-Show Prediction using Machine Learning
 
 ## Overview
 This project predicts whether a patient will miss a medical appointment using Machine Learning.
